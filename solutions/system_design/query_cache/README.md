@@ -243,7 +243,8 @@ To handle the heavy request load and the large amount of memory needed, we'll sc
 
 ## Additional talking points
 
-> Additional topics to dive into, depending on the problem scope and time remaining.
+> Additional topics to dive into, depending on the problem sco
+> pe and time remaining.
 
 ### SQL scaling patterns
 
